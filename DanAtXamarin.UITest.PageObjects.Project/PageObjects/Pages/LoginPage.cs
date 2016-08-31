@@ -11,7 +11,7 @@ namespace $safeprojectname$
         private readonly Query submitButton = new Query("submit");
 
         public LoginPage(IApp app)
-            : base(app, "Login", new Query(e => e.Id("login_button")))
+            : base(app, "Login", submitButton)
         {
 
         }
