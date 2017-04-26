@@ -1,8 +1,7 @@
 # Xamarin.UITest Templates for Page Object Model
 Quickly create cross-platform tests that are scalable and maintainable by using the [Page Object Model design pattern](https://danatxamarin.com/2015/05/12/building-a-scalable-test-suite-with-xamarin-uitest-and-page-objects/) with Xamarin.UITest. 
 
-**Download and install these templates as a [VSIX installer for Visual Studio 2017]
-(https://github.com/danwaters/vspom/blob/master/DanAtXamarin.UITest.PageObjects.VS2017.vsix)**
+**Download and install these templates as a [VSIX installer for Visual Studio 2017](https://github.com/danwaters/vspom/blob/master/DanAtXamarin.UITest.PageObjects.VS2017.vsix)**
 **Download and install these templates as a [VSIX installer for Visual Studio 2015](https://github.com/danwaters/vspom/raw/master/DanAtXamarin.UITest.PageObjects.vsix)**
 
 ## Features
