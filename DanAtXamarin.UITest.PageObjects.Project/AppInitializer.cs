@@ -10,6 +10,8 @@ namespace $safeprojectname$
             {
                 return ConfigureApp
                     .Android
+                    // To use a specific APK, uncomment the line below and provide the path
+                    //.ApkFile(@"C:\path\to\my.apk")
                     .StartApp();
             }
 

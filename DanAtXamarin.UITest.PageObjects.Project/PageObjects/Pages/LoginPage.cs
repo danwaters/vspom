@@ -6,9 +6,9 @@ namespace $safeprojectname$
 {
     public class LoginPage : BasePage
     {
-        private readonly Query usernameField = new Query("username");
-        private readonly Query passwordField = new Query("password");
-        private readonly Query submitButton = new Query("submit");
+        private static readonly Query usernameField = new Query("username");
+        private static readonly Query passwordField = new Query("password");
+        private static readonly Query submitButton = new Query("submit");
 
         public LoginPage(IApp app)
             : base(app, "Login", submitButton)

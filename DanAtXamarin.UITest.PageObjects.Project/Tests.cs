@@ -14,7 +14,7 @@ namespace $safeprojectname$
         }
 
         [Test]
-        [Category("smoke-tests")]
+        [Category("smoke")]
         public void AppLaunches()
         {
             app.WaitForElement(e => e.All());
